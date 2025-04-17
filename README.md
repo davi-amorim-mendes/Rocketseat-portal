@@ -1,5 +1,5 @@
-# Rocketseat Chessecake
-## ![Image](https://github.com/user-attachments/assets/fc4696b1-5640-4b90-9f85-cbbd958ba8ee)
+# Rocketseat Portal de Notícias
+## ![Image](https://github.com/user-attachments/assets/b137de30-6f4a-4e30-9f51-c6f4dbcb60d3)
 ## Sobre:
 Atividade de apredizagem frontend.
 ## Linguagens utilizadas:
