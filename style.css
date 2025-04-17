@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+body
+{
+    font-family: Archivo;
+    box-sizing: border-box;
+    background-color: #0F172A;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+header
+{
+    display: flex;
+    width: auto;
+    height: 100px;
+    margin: auto;
+    justify-content: center;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px #1E293B;
+    border-style: groove;
+}
+
+nav
+{
+    display: flex;
+    width: auto;
+    height: 50px;
+    margin: auto;
+    justify-content: center;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px #1E293B;
+    border-style: groove;
+}
+
+h1
+{
+    display: inline;
+    color: #60A5FA;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 40px;
+}
+
+h2
+{
+    color: #F1F5F9;
+}
+
+h3
+{
+    position: relative;
+    color: #CBD5E1;
+}
+
+p
+{
+    color: #CBD5E1;
+    margin-right: 20px;
+}
+
+img
+{
+    filter: brightness(60%);
+    border-radius: 10px;
+}
+
+button
+{
+    font-family: Archivo;
+}
+
+.topico
+{
+    background-color: #1D4ED8;
+    height: auto;
+    color: #F1F5F9;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.principal
+{
+    display: flex;
+    justify-content: center;
+    margin-top: ;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px #1E293B;
+    border-style: groove;
+}
+
+.robo
+{
+    width: 1008px;
+    height: 445px;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.teste
+{
+    display: flexbox;
+}
+
+.imagemsecundaria1
+{
+    position: relative;
+    width: 280px;
+    height: 200px;
+    margin: 20px;
+    left: 20px;
+}
+
+.imagemsecundaria2
+{
+    filter: brightness(100%);
+    position: relative;
+    width: 292px;
+    height: 160px;
+    margin: 50px;
+}
+
+.rolagem
+{
+    display: flex;
+    justify-content: center;
+}
+
+.titulonoticia1
+{
+    width: 696px;
+    margin-top: 20px;
+}
+
+.noticias1
+{
+    display: flex;
+    width: 696px;
+    height: 176px;
+}
+
+.imagemnoticia
+{
+    filter: brightness(100%);
+    width: 176px;
+    height: 176px;
+}
+
+.imagemnoticia2
+{
+    filter: brightness(100%);
+    width: 86px;
+    height: 86px;
+}
+
+
+.final
+{
+    position: relative;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.esquerda
+{
+    display: inline-block;
+}
+
+.direita
+{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.imagemimagem
+{
+    filter: brightness(100%);
+    display: flexbox;
+    position: relative;
+    width: 688px;
+    height: 380px;
+    top: 30px;
+}
+
+.linha
+{
+    padding: 10px;
+    border-color: #1E293B;
+    border-top: 2px #1E293B;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style:groove;
+    margin-top: 50px;
+}
+
+.caixa
+{
+    position: absolute;
+    font-size: 30px;
+    width: 700px;
+    top: 480px;
+    left: 300px;
+}
+
+.caixa2
+{
+    position: absolute;
+    font-size: 15px;
+    width: 270px;
+    top:300px;
+    left: 1090px;
+}
+
+.caixa3
+{
+    position: absolute;
+    font-size: 15px;
+    width: 270px;
+    top:300px;
+    left: 1415px;
+}
+
+.caixa4
+{
+    position: absolute;
+    font-size: 15px;
+    width: 270px;
+    top:545px;
+    left: 1090px;
+}
+
+.caixa5
+{
+    position: absolute;
+    font-size: 15px;
+    width: 270px;
+    top:545px;
+    left: 1415px;
+}
+
+.caixa6
+{
+    position: absolute;
+    font-size: 18px;
+    width: 270px;
+    top:845px;
+    left: 220px;
+}
+
+.caixa7
+{
+    position: absolute;
+    font-size: 18px;
+    width: 270px;
+    top:845px;
+    left: 614px;
+}
+
+.caixa8
+{
+    position: absolute;
+    font-size: 18px;
+    width: 270px;
+    top:845px;
+    left: 1010px;
+}
+
+.caixa9
+{
+    position: absolute;
+    font-size: 18px;
+    width: 270px;
+    top:845px;
+    left: 1400px;
+}
+
+.navegacao
+{
+    font-size: 18px;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+
+.menu
+{
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.vetor
+{
+    border-radius: 0px;
+    width: 25px;
+    margin-right: 10px;
+}
+
+.vetor2
+{
+    border-radius: 0px;
+    width: 25px;
+    margin-left: 10px;
+}
+
+#butaocaixa
+{
+    position: absolute;
+    top: 480px;
+    left: 300px;
+}
+
+#butaocaixa2
+{
+    position: absolute;
+    top: 290px;
+    left: 1090px;
+}
+
+#butaocaixa3
+{
+    position: absolute;
+    top: 290px;
+    left: 1415px;
+}
+
+#butaocaixa4
+{
+    position: absolute;
+    top: 535px;
+    left: 1090px;
+}
+
+#butaocaixa5
+{
+    position: absolute;
+    top: 535px;
+    left: 1415px;
+}
+
+#butaocaixa6
+{
+    position: absolute;
+    top: 705px;
+    left: 230px;
+}
+
+#butaocaixa7
+{
+    position: absolute;
+    top: 705px;
+    left: 624px;
+}
+
+#butaocaixa8
+{
+    position: absolute;
+    top: 705px;
+    left: 1013px;
+}
+
+#butaocaixa9
+{
+    position: absolute;
+    top: 705px;
+    left: 1406px;
+}
+
+#seila
+{
+    margin-top: 0px;
+    margin-left: 20px;
+}
